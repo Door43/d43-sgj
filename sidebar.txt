@@ -17,3 +17,10 @@ All content for this namespace is available in the [[https://github.com/Door43/d
 
 [[http://www.ethnologue.com/language/sgj|Ethnologue data]]
 
+
+**Resources**
+
+  * [[sgj:obs|Open Bible Stories (sgj)]]
+
+**Latest OBS Status**
+{{page>en:uwadmin:sgj:obs:status}}
